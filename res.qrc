@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MIcon/background.png</file>
+        <file>MIcon/money.png</file>
+        <file>MIcon/no_cow.png</file>
+        <file>MIcon/close.png</file>
+        <file>MIcon/cow_button_icon.png</file>
+        <file>MIcon/180.png</file>
+        <file>MIcon/error_icon.png</file>
+        <file>MIcon/seaSky.png</file>
+        <file>MIcon/tempLevel_icon.png</file>
+        <file>MIcon/test_fill_icon.png</file>
+        <file>MIcon/normal_undeveloped_icon.png</file>
+    </qresource>
+</RCC>

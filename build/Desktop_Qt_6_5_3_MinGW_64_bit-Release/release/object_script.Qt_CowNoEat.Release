@@ -1,0 +1,11 @@
+release/choosesence.o
+release/main.o
+release/mainwindow.o
+release/mediaplayersence.o
+release/mypushbutton.o
+release/startbutton.o
+release/qrc_res.o
+release/moc_choosesence.o
+release/moc_mainwindow.o
+release/moc_mypushbutton.o
+release/moc_startbutton.o
